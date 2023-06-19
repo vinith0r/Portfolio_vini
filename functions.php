@@ -1,1 +1,4 @@
-sadhjh
+<?php
+$v = "n";
+echo $v;
+?>
