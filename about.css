@@ -1,0 +1,86 @@
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'poppins', sans-serif;
+}
+
+body, html {
+  height: 100%;
+  margin: 0;
+}
+
+.bg {
+  /* The image used */
+  background-image: url("img/about-bg.jpg");
+
+  /* Full height */
+  height: 100%; 
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+  color: white;
+}
+
+
+.prof .profile{
+  border-radius: 50%;
+  height: 400px;
+  width: 400px;
+  border-color: blue;
+  padding: 10px;
+  background-color: #0b0c2e;
+}
+
+
+
+.skills {
+  text-align: right;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  color: white;
+}
+
+.Linux {
+  border-radius: 20px;
+  width: 70%;
+  background-color: #04AA6D;
+}
+
+.C-Language {
+  border-radius: 20px;
+  width: 40%;
+  background-color: #4f0d57;
+}
+
+.python{
+  border-radius: 20px;
+  width: 50%;
+  background-color: #04AA6D;
+}
+
+.html {
+  border-radius: 20px;
+  width: 90%;
+  background-color: #04AA6D;
+}
+.css {
+  border-radius: 20px;
+  width: 80%;
+  background-color: #2196F3;
+}
+.js {
+  border-radius: 20px;
+  width: 20%;
+  background-color:
+  #f44336;
+}
+.php {
+  border-radius: 20px;
+  width: 60%; 
+  background-color: #808080;
+}
